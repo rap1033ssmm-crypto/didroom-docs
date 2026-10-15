@@ -20,7 +20,7 @@ const vitepressSidebarOptions = {
 };
 
 export default defineConfig({
-  base: "/",
+  base: "/didroom-docs/",
   title: "EUDI Wallet",
   description: "Empower your Identity strategy: customize, plug, deploy",
   lang: "en-US",
