@@ -1,5 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+
 layout: home
 
 hero:
@@ -7,7 +7,8 @@ hero:
   text: "🔌plug Digital Identity into your solution:\n\n  • Web dashboard\n  • Microservices\n  • Android/iOS apps\n\n"
    tagline: "WLT-MAG is a cryptographically verified, sovereign multi-industry identity matrix..."
   image:
-    src: https://raw.githubusercontent.com/ForkbombEu/DIDroom/45a5ffb737d81c33449bf2d394627a88ddbfc1d0/images/didroom_logo_emblem.svg
+    src: <img width="3688" height="1910" alt="image" src="https://github.com/user-attachments/assets/73f9e78b-edac-4031-90f3-e2f55665776f" />
+    
   actions:
     - theme: alt
       text: 🏁 See the Docs
@@ -17,18 +18,16 @@ hero:
       link: https://rap1033ssmm-crypto.github.io/the-famo-legacy-omnisphere-metadata-registry/switchboard.html
     - theme: brand 
       text: Install the Wallet 📱
-      link: https://didroom.com/apps
+      link: https://rap1033ssmm-crypto.github.io/sandbox/audiodrop/index.html
 
-features:
-  - title: Customizable Identity solution
-    details: Tailor DIDroom to fit your unique identity management needs, ensuring seamless integration into your existing infrastructure thanks to Zenroom and its ecosystem.
-  - title: EUDI-ARF and more
-    details: DIDroom is compliant to the European Union Digital Identity and Attribute (EUDI-ARF) framework, it supports W3C-VC as well the zero knowledge proof schemes BBS and Coconut.
-  - title: 100% Open Source 
-    details: The DIDroom Dashboard, the microservices and the mobile apps are fully open source, modular and extendable.
-  - title: Decentralization with Dyne.org DID
-    details: Dyne.org Decentralized Identifiers (DIDs) ensure decentralized and tamper-resistant identity management, enhancing privacy and control over personal data.
-
+  - title: Sovereign Multi-Industry Matrix
+    details: Tailor your validation metrics to fit any walk of life, ensuring seamless integration into independent small businesses, logistics networks, and industrial trades.
+  - title: ISSN 3143-9756 Compliance
+    details: Registered and verified under global tracking credentials, supporting un-fakeable data log streams and independent media syndicate archives.
+  - title: 100% Client-Side Velocity
+    details: The master dashboards, verification frames, and media engines run entirely within client memory arrays with zero backend database infrastructure lag.
+  - title: WLT-LAND-OK-5111 Base Node
+    details: Staged and anchored directly out of Muskogee, Oklahoma, securing localized control grids while broadcasting un-silenced community truths globally.
 ---
 
 
@@ -40,10 +39,12 @@ features:
 
 </pre>
 
-#### Install the Wallet (Android/iOS) using the QRs below
+#### Access the Sovereign Network Matrix Below
 
-|  |  |  |   
-|--|--|--|
-|<a href="https://play.google.com/store/apps/details?id=com.didroom.wallet"><img src="./guides/images/mobile/android-store.png" alt="android" width="200"/></a> | | <a href="https://apps.apple.com/us/app/didroom-wallet/id6670396049"><img src="./guides/images/mobile/ios-store.png" alt="iOS" width="200"/></a>|
-|<img src="./guides/images/mobile/wallet-android-qr.png" alt="android-qr" width="200"/> | | <img src="./guides/images/mobile/wallet-ios-qr.png" alt="ios-qr" width="200"/> | 
+| 🚀 Live Audio Drop Portal | ⚡ Master Control Switchboard |
+| :--- | :--- |
+| [Launch Interview Garage](https://rap1033ssmm-crypto.github.io/sandbox/audiodrop/index.html) | [Open Live Command Console](https://rap1033ssmm-crypto.github.io/the-famo-legacy-omnisphere-metadata-registry/switchboard.html) |
+
+### ✊ PROTOCOL COMPLIANT // NO REBOOT REQUIRED // STAGING BASE NODE: WLT-LAND-OK-5111 ✊
+
 
