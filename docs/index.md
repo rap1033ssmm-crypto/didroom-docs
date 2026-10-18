@@ -1,25 +1,25 @@
 ---
-
 layout: home
 
 hero:
   name: "WLT-MAG IDENTITY ENGINE"
-  text: "🔌plug Digital Identity into your solution:\n\n  • Web dashboard\n  • Microservices\n  • Android/iOS apps\n\n"
-   tagline: "WLT-MAG is a cryptographically verified, sovereign multi-industry identity matrix..."
+  text: "Plug Digital Identity into your solution:\n\n • Web dashboard\n • Microservices\n • Android/iOS apps\n\n"
+  tagline: "WLT-MAG is a cryptographically verified, sovereign multi-industry identity matrix..."
   image:
-    src: <img width="3688" height="1910" alt="image" src="https://github.com/user-attachments/assets/73f9e78b-edac-4031-90f3-e2f55665776f" />
-    
-  actions:
-    - theme: alt
-      text: 🏁 See the Docs
-      link: /get_started.md
-    - theme: brand
-      text: Open the Dashboard ↗
-      link: https://rap1033ssmm-crypto.github.io/the-famo-legacy-omnisphere-metadata-registry/switchboard.html
-    - theme: brand 
-      text: Install the Wallet 📱
-      link: https://rap1033ssmm-crypto.github.io/sandbox/audiodrop/index.html
+    src: /F-L-O%20CREDENTIAL%20VERIFICATION%20(1).webp
 
+actions:
+  - theme: alt
+    text: See the Docs
+    link: /get_started.md
+  - theme: brand
+    text: Open the Dashboard
+    link: https://rap1033ssmm-crypto.github.io/the-famo-legacy-omnisphere-metadata-registry/switchboard.html
+  - theme: brand
+    text: Install the Wallet
+    link: https://rap1033ssmm-crypto.github.io/sandbox/audiodrop/index.html
+
+features:
   - title: Sovereign Multi-Industry Matrix
     details: Tailor your validation metrics to fit any walk of life, ensuring seamless integration into independent small businesses, logistics networks, and industrial trades.
   - title: ISSN 3143-9756 Compliance
@@ -30,15 +30,6 @@ hero:
     details: Staged and anchored directly out of Muskogee, Oklahoma, securing localized control grids while broadcasting un-silenced community truths globally.
 ---
 
-
-<pre>
-
-
-
-
-
-</pre>
-
 #### Access the Sovereign Network Matrix Below
 
 | 🚀 Live Audio Drop Portal | ⚡ Master Control Switchboard |
@@ -46,5 +37,3 @@ hero:
 | [Launch Interview Garage](https://rap1033ssmm-crypto.github.io/sandbox/audiodrop/index.html) | [Open Live Command Console](https://rap1033ssmm-crypto.github.io/the-famo-legacy-omnisphere-metadata-registry/switchboard.html) |
 
 ### ✊ PROTOCOL COMPLIANT // NO REBOOT REQUIRED // STAGING BASE NODE: WLT-LAND-OK-5111 ✊
-
-
