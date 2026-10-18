@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "DIDroom ecosystem"
+  name: "WLT-MAG IDENTITY ENGINE"
   text: "🔌plug Digital Identity into your solution:\n\n  • Web dashboard\n  • Microservices\n  • Android/iOS apps\n\n"
-  tagline: "DIDroom is a customizable identity solution, EUDI-ARF compliant, and built with security and decentralization in mind.\nRuns: ☁️SaaS, 🏭On-Premises, 🛠mixed\n\n"
+   tagline: "WLT-MAG is a cryptographically verified, sovereign multi-industry identity matrix..."
   image:
     src: https://raw.githubusercontent.com/ForkbombEu/DIDroom/45a5ffb737d81c33449bf2d394627a88ddbfc1d0/images/didroom_logo_emblem.svg
   actions:
