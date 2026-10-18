@@ -44,7 +44,7 @@ export default defineConfig({
     ],
   ],
 
-     themeConfig: {
+  themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       {
@@ -61,9 +61,7 @@ export default defineConfig({
     ],
     logo: "/F-L-O%20CREDENTIAL%20VERIFICATION%20(1).webp",
     sidebar: generateSidebar(vitepressSidebarOptions),
-    socialLinks: []
-
-    },
+    socialLinks: [],
     search: {
       provider: "local",
     },
