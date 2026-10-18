@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "WLT-MAG IDENTITY ENGINE"
+  name: "WLT-MAG IDENTITY ENGINE" to name: "F-L-O CREDENTIAL VERIFICATION"
   text: "Plug Digital Identity into your solution:\n\n • Web dashboard\n • Microservices\n • Android/iOS apps\n\n"
-  tagline: "WLT-MAG is a cryptographically verified, sovereign multi-industry identity matrix..."
+tagline: "FAMO-LEGACY OMNISPHERE INTELLIGENCE BUREAU // MASTER REGISTRY CODE: ISSN 3143-9756 // STAGING BASE NODE: WLT-LAND-OK-5111"
   image:
     src: /F-L-O%20CREDENTIAL%20VERIFICATION%20(1).webp
 
@@ -20,7 +20,7 @@ actions:
     link: https://rap1033ssmm-crypto.github.io/sandbox/audiodrop/index.html
 
 features:
-  - title: Sovereign Multi-Industry Matrix
+  • - title: F-L-O Sovereign Multi-Industry Matrix
     details: Tailor your validation metrics to fit any walk of life, ensuring seamless integration into independent small businesses, logistics networks, and industrial trades.
   - title: ISSN 3143-9756 Compliance
     details: Registered and verified under global tracking credentials, supporting un-fakeable data log streams and independent media syndicate archives.
