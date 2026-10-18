@@ -21,7 +21,7 @@ const vitepressSidebarOptions = {
 
 export default defineConfig({
   base: "/didroom-docs/",
-  title: "EUDI Wallet",
+  title: "F-L-O CREDENTIAL VERIFICATION",
   description: "Empower your Identity strategy: customize, plug, deploy",
   lang: "en-US",
 
@@ -44,34 +44,30 @@ export default defineConfig({
     ],
   ],
 
-  themeConfig: {
+    themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       {
         text: "Guide",
         items: [
-          { text: "Wallet App", link: "/guides/Wallet/wallet" },
-		  { text: "Web Verifier", link: "/guides/Verifier/web-verifier" },
-          { text: "Credential issuance", link: "guides/Flows/basics" },
-          { text: "Microservices", link: "guides/Orgadmin/microservices" },
-          { text: "Sysadmins", link: "/guides/Sysadmin/sysadmin" },
-        ],
+          { text: "Wallet App", link: "/guides/wallet/wallet" },
+          { text: "Web Verifier", link: "/guides/Verifier/web verifier" },
+          { text: "Credential Issuance", link: "/guides/flows/basics" },
+          { text: "Microservices", link: "/guides/Orgadmin/microservices" },
+          { text: "Sysadmins", link: "/guides/Sysadmin/sysadmin" }
+        ]
       },
-      { text: "Get started", link: "/get_started" },
-      { text: "Pricing", link: "/guides/Pricing/pricing" },
+      { text: "Get started", link: "/get_started" }
     ],
-    logo: "https://raw.githubusercontent.com/ForkbombEu/DIDroom/45a5ffb737d81c33449bf2d394627a88ddbfc1d0/images/DIDroom_logo.svg",
+    logo: "/F-L-O%20CREDENTIAL%20VERIFICATION%20(1).webp",
     sidebar: generateSidebar(vitepressSidebarOptions),
-    socialLinks: [
-      { icon: "github", link: "https://github.com/topics/didroom" },
-      { icon: "linkedin", link: "https://linkedin.com/company/forkbomb" },
-    ],
+    socialLinks: []
 
-    footer: {
-      message:
-        'Released under the <a href="https://raw.githubusercontent.com/ForkbombEu/signroom/refs/heads/main/LICENSES/AGPL-3.0-or-later.txt">AGPLv3 License</a>.',
-      copyright:
-        'Copyleft 🄯 2023-present <a href="https://forkbomb.solutions">Forkbomb B.V.</a>',
+        footer: {
+      message: 'PRIMARY LOGISTICS MATRIX: NAICS 516210 // ISSN 3143-9756',
+      copyright: '✊ FAMO-LEGACY OMNISPHERE INTELLIGENCE BUREAU // STAGING BASE NODE: WLT-LAND-OK-5111 ✊'
+    },
+
     },
     search: {
       provider: "local",
