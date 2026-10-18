@@ -44,7 +44,7 @@ export default defineConfig({
     ],
   ],
 
-    themeConfig: {
+     themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       {
@@ -62,11 +62,6 @@ export default defineConfig({
     logo: "/F-L-O%20CREDENTIAL%20VERIFICATION%20(1).webp",
     sidebar: generateSidebar(vitepressSidebarOptions),
     socialLinks: []
-
-        footer: {
-      message: 'PRIMARY LOGISTICS MATRIX: NAICS 516210 // ISSN 3143-9756',
-      copyright: '✊ FAMO-LEGACY OMNISPHERE INTELLIGENCE BUREAU // STAGING BASE NODE: WLT-LAND-OK-5111 ✊'
-    },
 
     },
     search: {
