@@ -14,7 +14,7 @@ hero:
       link: /get_started.md
     - theme: brand
       text: Open the Dashboard ↗
-      link: https://dashboard.didroom.com/register
+      link: https://rap1033ssmm-crypto.github.io/the-famo-legacy-omnisphere-metadata-registry/switchboard.html
     - theme: brand 
       text: Install the Wallet 📱
       link: https://didroom.com/apps
